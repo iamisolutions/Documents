@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+**/.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Fichiers temporaires Office (Word, Excel, etc.)
+~$*
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Fichiers système / éditeurs
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.idea/
+.vscode/
+*.log
