@@ -1,24 +1,29 @@
 # macOS
 .DS_Store
+**/.DS_Store
 .AppleDouble
 .LSOverride
-**/.DS_Store
+._*
 
 # Windows
 Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-# Editors / IDEs
-.idea/
-.vscode/
+# Fichiers temporaires Office (Word, Excel, etc.)
+~$*
+*.tmp
+*.temp
+*.bak
 *.swp
 *.swo
 *~
 
+# Editors / IDEs
+.idea/
+.vscode/
+
 # Temporary & cache
-*.tmp
-*.temp
 *.log
 .cache/
 
